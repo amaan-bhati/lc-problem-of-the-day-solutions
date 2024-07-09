@@ -1,7 +1,6 @@
-/**
- * @param {number[][]} customers
- * @return {number}
- */
+//average waiting time
+//9th-july-2024
+//array
 var averageWaitingTime = function (customers) {
   let total = 0;
   let startTime = customers[0][0];
