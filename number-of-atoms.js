@@ -1,3 +1,7 @@
+//Number of atoms
+//14th-july-2024
+//hash table, stack, string, sorting
+
 function countOfAtoms(formula) {
     const stack = [];
     const counts = new Map();
